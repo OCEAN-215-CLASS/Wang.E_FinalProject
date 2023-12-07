@@ -1,6 +1,4 @@
-# OCEAN215 Final Projet
-
-# Marine Microplastic Concentration Measurements
+# Marine Microplastic Concentration Exploration
 
 **Name:** Evelyn Wang
 
