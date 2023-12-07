@@ -1,8 +1,9 @@
-# Wang.E_FinalProject
+# OCEAN215 Final Projet: Marine Microplastic Concentration Measurements
 
 **Name:** Evelyn Wang
 
 **NetID:** jmwang02
+
 
 ## Introduction
 
